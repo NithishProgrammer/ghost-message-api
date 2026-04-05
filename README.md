@@ -77,7 +77,7 @@ This project demonstrates core backend engineering concepts:
 
 ## 🤝 Contributing
 
-Developed by **[NithishProgrammer]https://github.com/NithishProgrammer)**.
+Developed by **[NithishProgrammer](https://github.com/NithishProgrammer)**.
 
 Feel free to fork this, open issues, or suggest new "destruction" methods like:
 
