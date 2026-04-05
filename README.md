@@ -1,7 +1,7 @@
 
 # 👻 Ghost Message API
 
-A high-performance, "Burn-on-Read" messaging service built with **FastAPI**. Designed for sending sensitive information that needs to vanish the moment it is viewed.
+A high-performance, "Burn-on-Read" messaging service API built with **FastAPI**. Designed for sending sensitive information that needs to vanish the moment it is viewed.
 
 -----
 
